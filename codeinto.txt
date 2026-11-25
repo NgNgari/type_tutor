@@ -1,0 +1,9 @@
+For decades, coding required two completely different skills: thinking like a problem-solver, and speaking in machine language.
+
+Today, once you grasp the basics of computing — breaking a big problem down into smaller, logical steps — you can leave the technical syntax to AI.
+
+Let’s tackle a real-world example: automating file organization. I regularly save files to my Downloads folder, and I want to keep it organized without the manual effort.
+
+So, what do I actually need to know to solve this?
+> Files have extensions. We can use these extensions to sort and organize our files automatically.
+> Automation requires an executable file. Windows uses .cmd or .bat formats to run these automated scripts.
